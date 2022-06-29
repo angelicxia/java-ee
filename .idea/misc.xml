@@ -14,7 +14,6 @@
       <set>
         <option value="$PROJECT_DIR$/Vue3/pom.xml" />
         <option value="$PROJECT_DIR$/VueUniApp/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis-helloworld/pom.xml" />
       </set>
     </option>
   </component>
